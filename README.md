@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TOMEOv17
-- 👀 I’m interested in coding and games
+- 👀 I’m interested in coding, working out and gaming
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me t.wardenski2003@gmail.com
 
